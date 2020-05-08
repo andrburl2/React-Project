@@ -1,0 +1,13 @@
+.screen {
+  width: calc(100% - 400px);
+  display: flex;
+  flex-direction: column;
+}
+
+.screen__placeholder {
+  margin: auto auto;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 60px;
+  color: gray;
+}
